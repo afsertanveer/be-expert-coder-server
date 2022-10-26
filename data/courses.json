@@ -17,7 +17,7 @@
     "id": "3",
     "course_name": ".Net Development",
     "description": "This is a Beginner to Advanced level course on ASP.NET Core 3.1 that will take you from basics all the way to advance mode. This course is for anyone who is new to asp.net core 3.1 or who is familiar with ASP.NET and wants to take a first stab at understanding what is different in asp.net core 3. From there we would be building multiple projects to understand all concepts in ASP.NET Core 3.1 as we will deploy our final application on Azure, IIS and other hosting website!",
-    "pre_requisite": "C#",
+    "prerequisite": "C#",
     "image_url": "https://i.ibb.co/jG93jYv/net.jpg"
   },
   {
@@ -31,14 +31,14 @@
     "id": "5",
     "course_name": "The Complete Java Development Bootcamp",
     "description": "Java is one of the most used programming languages. It's easy to learn and can run on any machine. You can use Java for Web Development, Mobile Development, Automation, and much more.Becoming a Java developer creates endless opportunities, and this course will give you a competitive edge.",
-    "pre_requisite": "Basic Programming Knowledge",
+    "prerequisite": "Basic Programming Knowledge",
     "image_url": "https://i.ibb.co/VtxJhz0/java.png"
   },
   {
     "id": "6",
     "course_name": "Beginning C++ Programming - From Beginner to Beyond",
     "description": "You will learn Modern C++, for one.  Many, perhaps most other courses on Udemy teach you old, obsolete versions of C++.  If you are going to learn C++, it's imperative that you learn the Modern version to maximize your career opportunities and to ensure your skills are up to date. The course format includes theory and concepts which are then reinforced with live code examples. Often the C++ debugger is used to step through code and analyze variables to better understand the behavior of C++. The instructor also uses a pen tablet to write on the screen and provide even more visual explanations. You won't find better C++ training anywhere, and you will struggle to find someone with as much industry and training experience as your instructor Frank has.",
-    "pre_requisite": "C Programming",
+    "prerequisite": "C Programming",
     "image_url": "https://i.ibb.co/VMJFg8z/cplusplus.jpg"
   }
 ]
