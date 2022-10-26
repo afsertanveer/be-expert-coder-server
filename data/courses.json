@@ -1,21 +1,21 @@
 [
   {
     "id": "1",
-    "course_name": "MERN",
-    "description": "MERN is a full stack web development course. M stands for MongoDB which will be the database for this course, E stands for Express which will be used as a framework of Node, R stands for React which will be used for Front End Development and finally N stands for Node. In this course, you will be taught how to use each of the technology and how you can combine them together to be a full stack developer.",
+    "course_name": "MERN Stack Course",
+    "description": "MERN Stack Course is a full stack web development course. M stands for MongoDB which will be the database for this course, E stands for Express which will be used as a framework of Node, R stands for React which will be used for Front End Development and finally N stands for Node. In this course, you will be taught how to use each of the technology and how you can combine them together to be a full stack developer.",
     "prerequisite": "HTML,CSS,JAVASCRIPT",
     "image_url": "https://i.ibb.co/yS52zdg/mern.png"
   },
   {
     "id": "2",
-    "course_name": "PHP Laravel",
+    "course_name": "Master Laravel 8 for Beginners & Intermediate",
     "description": "This course is based on famous framewrok of PHP which is Laravel. In this course, you will be taught PHP OOP in the beginning then, there will be a proper session about MVC and its functionality.Before going to the main course, you will be given knowledge how to use database and for this course you will be taught MYSQL briefly so that you can make a dynamic website. After educating those basics, you will be taken to the ocean of PHP laravel. This course is very well designed with lot of real life practical projects",
     "prerequisite": "HTML,CSS,JAVASCRIPT,PHP",
     "image_url": "https://i.ibb.co/bHLnpJ9/laravel.png"
   },
   {
     "id": "3",
-    "course_name": ".Net Development",
+    "course_name": "Complete guide to ASP.NET Core MVC (.NET 6)",
     "description": "This is a Beginner to Advanced level course on ASP.NET Core 3.1 that will take you from basics all the way to advance mode. This course is for anyone who is new to asp.net core 3.1 or who is familiar with ASP.NET and wants to take a first stab at understanding what is different in asp.net core 3. From there we would be building multiple projects to understand all concepts in ASP.NET Core 3.1 as we will deploy our final application on Azure, IIS and other hosting website!",
     "prerequisite": "C#",
     "image_url": "https://i.ibb.co/jG93jYv/net.jpg"
