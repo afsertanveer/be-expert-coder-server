@@ -1,7 +1,7 @@
 [
   {
     "id": "1",
-    "course_name": "MERN Stack Course",
+    "course_name": "MERN Stack Course 2022 - MongoDB, Express, React and NodeJS",
     "description": "MERN Stack Course is a full stack web development course. M stands for MongoDB which will be the database for this course, E stands for Express which will be used as a framework of Node, R stands for React which will be used for Front End Development and finally N stands for Node. In this course, you will be taught how to use each of the technology and how you can combine them together to be a full stack developer.",
     "prerequisite": "HTML,CSS,JAVASCRIPT",
     "image_url": "https://i.ibb.co/yS52zdg/mern.png"
